@@ -3,11 +3,11 @@
 ```
 // new 的模拟实现
 function objectFactory() {
-  var obj = new Object(),
+  var obj = {},
   cons = [].shift.call(arguments)
   obj.__proto__ = cons.prototype
   var ret = cons.apply(obj, arguments)
-  return typeof ret === 'object' ? ret|| obj : obj
+  return Object.prototype.toString.call(ret) === '[object Object]' ? ret|| obj : obj
 }
 function Person(name) {
   this.name = name;

@@ -4,4 +4,4 @@
 ☞ [3 观察者模式和发布订阅模式](doc/3.观察者模式和发布订阅模式.md)  
 ☞ [4 函数的节流和防抖](doc/4.函数的节流和防抖.md)  
 ☞ [5 拥抱react新生命周期](doc/5.拥抱react新生命周期.md)  
-☞ [6 拟实现java的sleep方法](doc/6 拟实现java的sleep方法.md)   
+☞ [6 拟实现java的sleep方法](doc/6.拟实现java的sleep方法.md)   

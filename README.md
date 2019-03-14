@@ -5,4 +5,4 @@
 ☞ [4 函数的节流和防抖](doc/4.函数的节流和防抖.md)  
 ☞ [5 拥抱react新生命周期](doc/5.拥抱react新生命周期.md)  
 ☞ [6 拟实现java的sleep方法](doc/6.拟实现java的sleep方法.md)   
-☞ [7 Node.js的Path模块](doc/7.Node.js的Path模块API.md)  
+☞ [7 Node.js的Path模块](doc/7.Node.js的Path模块.md)  

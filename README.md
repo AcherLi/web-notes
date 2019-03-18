@@ -6,4 +6,4 @@
 ☞ [5 拥抱react新生命周期](doc/5.拥抱react新生命周期.md)  
 ☞ [6 拟实现java的sleep方法](doc/6.拟实现java的sleep方法.md)   
 ☞ [7 Node.js的Path模块](doc/7.Node.js的Path模块.md)  
-☞ [8 Node.js的fs模块](doc/8.Node.js的fs模块.md)   
+☞ [8 Node.js的fs模块](doc/8.Node.js的fs模块.md)  

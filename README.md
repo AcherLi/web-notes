@@ -6,7 +6,8 @@
 ☞ [5 拥抱react新生命周期](doc/5.拥抱react新生命周期.md)  
 ☞ [6 拟实现java的sleep方法](doc/6.拟实现java的sleep方法.md)   
 ☞ [7 Node.js的Path模块](doc/7.Node.js的Path模块.md)  
-☞ [8 Loader和plugin的区别](doc/8.Loader和plugin的区别.md)    
- 
-  
-
+☞ [8 Loader和plugin的区别](doc/8.Loader和plugin的区别.md)  
+☞ [9 移动端开发的小tips](doc/9.移动端开发的小tips.md.md)  
+☞ [10 浏览器的页面渲染机制](doc/10.浏览器的页面渲染机制.md)  
+☞ [11 koa中间件](doc/11.koa中间件.md)  
+☞ [12 数组去重多种方法](doc/12.数组去重多种方法.md)  
